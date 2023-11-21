@@ -7,7 +7,10 @@ ssh root@your-serverip
 ```
 it will ask for pawssword
 
-### if you want to connect without password 
+after enterning passsword you are ready to go
+
+
+### If you want to connect without password 
 
 got to your device root and get your device ssh key
 
